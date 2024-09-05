@@ -33,7 +33,8 @@ sudo apt install -y g++ gcc git curl wget nasm yasm libgtk-3-dev clang libxcb-ra
 #### Fedora 28 (CentOS 8)
 
 ```sh
-sudo yum -y install gcc-c++ git curl wget nasm yasm gcc gtk3-devel clang libxcb-devel libxdo-devel libXfixes-devel pulseaudio-libs-devel cmake alsa-lib-devel
+sudo yum -y install gcc-c++ git curl wget nasm yasm gcc gtk3-devel clang libxcb-devel libxdo-devel libXfixes-devel pulseaudio-libs-devel cmake alsa-lib-devel gstreamer1-devel gstreamer1-plugins-base-devel
+
 ```
 
 #### Arch Linux (Manjaro)
